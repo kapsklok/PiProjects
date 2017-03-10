@@ -1,0 +1,27 @@
+body {
+    background-color:darkblue;
+    color:white;
+    text-align:center;
+}
+
+a {
+    color:white;
+}
+
+#input {
+    width:20%;
+    position:absolute;
+    left:40%;
+    text-align:left;
+}
+
+.left {
+    display:block;
+}
+
+.right {
+    position:relative;
+    display:block;
+    float:right;
+    color:green;
+}
